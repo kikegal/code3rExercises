@@ -1,2 +1,2 @@
-# code3rExercises
+# code3rExercises-fundamentos
 Curse Javascript Code3r exercises
